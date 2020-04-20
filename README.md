@@ -1,5 +1,3 @@
-<img src="img/repo-logo.jpg">
-
 # Data Science Interviews
 
 Data science interview questions - with answers
