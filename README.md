@@ -14,5 +14,5 @@ The answers are given and create from various industry proffessional
 
 ## Questions by category
 
-* Theoretical questions: [theory.md](theory.md) (linear models, trees, neural networks and others)
-* Technical questions: [technical.md](technical.md) (SQL, Python, coding)
+* Theoretical questions: (linear models, trees, neural networks and others)
+* Technical questions: (SQL, Python, coding)
