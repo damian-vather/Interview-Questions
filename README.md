@@ -4,7 +4,7 @@
 
 Data science interview questions - with answers
 
-The answers are given and create from various industry proffessional
+The answers are given and create from various industry professional
 
 * If you know how to answer a question — please create a issue with the answer
 * If there's already an answer, but you can improve it — please create a Pull Request with improvement suggestion
