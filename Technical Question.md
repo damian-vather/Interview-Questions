@@ -652,12 +652,12 @@ def binary_search(lst, num):
 
 <br/>
 
-**7) Deduplication**. Remove duplicates from a sorted array.
+**7) RemoveDuplication**. Remove duplicates from a sorted array.
 
 * `[1, 1, 1, 2, 3, 4, 4, 4, 5, 6, 6]` ⇒ `[1, 2, 3, 4, 5, 6]`
 
 ```python
-def deduplication1(lst):
+def RemoveDuplication(lst):
     '''manual'''
     ans = []
     last = None
@@ -667,7 +667,7 @@ def deduplication1(lst):
             last = i
     return ans
 
-def deduplication2(lst):
+def RemoveDuplication(lst):
     return list(set(lst))
 ```
 
