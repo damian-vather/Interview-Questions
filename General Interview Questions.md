@@ -89,7 +89,7 @@ Here are some related questions you might be asked during a job interview that w
 
 At the close of the interview, most interviewers ask whether you have any questions about the job or company. If you don’t have any questions, this can make it seem like you are apathetic about the opportunity. It's always a good idea to have a list of questions ready, and to be prepared to discuss them.
 
-##How to Prepare for a Job Interview
+## How to Prepare for a Job Interview
 
 The more time you spend preparing for a job interview, the better your chances will be of acing it. You’ll feel more comfortable speaking with the hiring manager if you’re familiar with the company’s products and services.
 
