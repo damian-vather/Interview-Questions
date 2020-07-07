@@ -17,6 +17,7 @@ The answers are given and create from various industry professional
 * Theoretical questions: (linear models, trees, neural networks and others)
 * Technical questions: (SQL, Python, coding)
 * Data Science Glossary
+* General Questions
 
 ## Lessons Learned
 
