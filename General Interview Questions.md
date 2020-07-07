@@ -1,3 +1,5 @@
+## General Question 
+
 **1. Tell me about yourself.**
 
 What They Want to Know: The interviewer wants to know why you're an excellent fit for the job. Try to answer questions about yourself without giving too much, or too little, personal information.
@@ -73,7 +75,7 @@ What They Want to Know: The interviewer wants to know how you respond when faced
 
 What They Want to Know: This question is designed to find out if you’re going to stick around or move on as soon as you find a better opportunity. Keep your answer focused on the job and the company, and reiterate to the interviewer that the position aligns with your long-term goals.
 
-##Other Questions
+## Other Questions
 
 Here are some related questions you might be asked during a job interview that will require some thought to answer.
 
@@ -83,7 +85,7 @@ Here are some related questions you might be asked during a job interview that w
 - What can you do better for us than the other applicants?
 - Why are you the best person for the job?
 
-##Questions to Ask the Interviewer
+## Questions to Ask the Interviewer
 
 At the close of the interview, most interviewers ask whether you have any questions about the job or company. If you don’t have any questions, this can make it seem like you are apathetic about the opportunity. It's always a good idea to have a list of questions ready, and to be prepared to discuss them.
 
@@ -92,36 +94,45 @@ At the close of the interview, most interviewers ask whether you have any questi
 The more time you spend preparing for a job interview, the better your chances will be of acing it. You’ll feel more comfortable speaking with the hiring manager if you’re familiar with the company’s products and services.
 
 - Research the company. 
+
 Before your interview, take the time to learn as much as possible about the job and your prospective employer. 
 There are many different resources you can use to find information and news about the organization, its mission and its plans.
 
 - Tap your connections for insider information.
+
 Who you know at a company can help you get hired.
 Check LinkedIn to see if you have connections who work at the company. Ask them if they can give you any advice that will help with the interview process.
 
 
 - Make a match. 
+
 Take the time before the interview to make matches between your qualifications and the requirements as stated in the job announcement. 
 This way, you will have examples at hand to demonstrate your suitability for the job.
 
 - Practice your responses. 
+
 Write out your answer in advance for each question and then read it aloud to ensure it sounds natural.
 Try to keep it short and sweet. You don’t want to come across as the type of person who endlessly drones on about themselves.
 
 - Be prepared to show and tell. 
+
 It can be helpful to remember the tip “show, don't tell.” For example, rather than stating that you are an excellent problem solver, instead give an example that demonstrates this, ideally drawing on an anecdote from your professional experience.
 
 - How to Make the Best Impression
+
 The first impression you make at a job interview, is going to be the most important one.
 Hiring managers can decide whether you’re a good candidate, or not, within a few minutes of meeting you. These tips will help you make a terrific first impression.
 
 - Dress for success.
+
 What you wear to the interview is important because you don’t want to be underdressed or overdressed. A three-piece suit can be as out of place as shorts and a t-shirt. Carefully choose appropriate attire, and don’t be afraid to ask the person who scheduled the interview if you’re not sure what to wear.
 
 - Be on time or a little early. 
+
 You definitely don’t want to keep your interviewer waiting, so be on time or a few minutes early for your appointment. If you’re not sure where you’re going, do a trial run ahead of time so you know how long it will take you to get there. If your interview is virtual, check to make sure that you're comfortable with the technology ahead of time.
 
 - Keep it positive. 
+
 Always try to put a positive slant on your responses to questions. It’s better to give the impression that you’re more motivated by the possibility of new opportunities than by trying to escape a bad situation. In addition, it’s important to avoid bashing your current organization, colleagues or supervisor. An employer is not likely to want to bring on someone who talks negatively about a company.
 
 Follow up after the interview. After every job interview, take the time to send a thank you note or email message sharing your appreciation for the time the interviewer spent with you, and reiterating your interest in the job. If there was something you wish you had said during the interview, but didn’t get a chance to, this is a good opportunity to mention it
