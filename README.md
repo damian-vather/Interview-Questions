@@ -19,6 +19,10 @@ The answers are given and create from various industry professional
 * Data Science Glossary
 * General Questions
 
+## CV Templates
+
+There is folder containing some basic templates. Note that this is usually the documents that makes the first impression. There are other online sites that offer cv templates just make sure you can download it before you write up the whole CV. 
+
 ## Lessons Learned
 
 I’m going to present a bunch of lessons I learned as bullet points in no particular order. Everything listed below is something I wish I knew beforehand, both in terms of preparation on the technical side and in terms of scheduling and other non-technical tips. These lessons are not iOS-specific and I’d imagine are generally applicable to all interviews in our industry.
