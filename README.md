@@ -67,8 +67,6 @@ There were multiple examples during my onsites where I would answer a question a
 
 Interview performance obviously helps decide if you get an offer from a given company, but it also helps decide what that offer looks like. If you get to a point where you think you know enough to get an offer, that’s great. But keep in mind there’s a big difference between “barely good enough” and “absolutely good enough”. Strive for the latter! My initial (i.e. not negotiated) offers came in pretty solid despite my relative lack of experience and I believe interview performance played a big role.
 
-<br>
-
 ## Sites you used know
 
 ### Sites to get an Internship
