@@ -19,6 +19,8 @@ The answers are given and create from various industry professional
 * Data Science Glossary
 * General Questions
 
+<img src="img/What is a datascientist.JPG" />
+
 ## CV Templates
 
 There is folder containing some basic templates. Note that this is usually the documents that makes the first impression. There are other online sites that offer cv templates just make sure you can download it before you write up the whole CV. 
