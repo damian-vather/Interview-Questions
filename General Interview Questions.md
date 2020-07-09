@@ -31,7 +31,7 @@ What They Want to Know: This is one of the questions that employers almost alway
 
 <br>
 
-4. What is your greatest weakness?
+**4. What is your greatest weakness?**
 
 What They Want to Know: Another typical question interviewers will ask is about your weaknesses. Do your best to frame your answers around positive aspects of your skills and abilities as an employee, turning seeming “weaknesses” into strengths.
 
