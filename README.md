@@ -25,7 +25,7 @@ There is folder containing some basic templates. Note that this is usually the d
 
 ## Lessons Learned
 
-I’m going to present a bunch of lessons I learned as bullet points in no particular order. Everything listed below is something I wish I knew beforehand, both in terms of preparation on the technical side and in terms of scheduling and other non-technical tips. These lessons are not iOS-specific and I’d imagine are generally applicable to all interviews in our industry.
+I’m going to present a bunch of lessons I learned as bullet points in no particular order. Everything listed below is something I wish I knew beforehand, both in terms of preparation on the technical side and in terms of scheduling and other non-technical tips. These lessons are not industry specific and I’d imagine are generally applicable to all interviews in our current space.
 
 📚 Stick with it. 
 
@@ -144,3 +144,11 @@ Interview performance obviously helps decide if you get an offer from a given co
 13. Lynda
 14. CodeHS
 15. Udemy
+
+### Sites to practice Coding 
+1. HackerRank
+2. Codewars
+3. Kaggle 
+4. Zindy 
+5. W3schools
+
