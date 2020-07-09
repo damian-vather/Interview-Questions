@@ -35,10 +35,13 @@ What They Want to Know: This is one of the questions that employers almost alway
 
 What They Want to Know: Another typical question interviewers will ask is about your weaknesses. Do your best to frame your answers around positive aspects of your skills and abilities as an employee, turning seeming “weaknesses” into strengths.
 
+
 You can also share examples of skills you have improved, providing specific instances of how you have recognized a weakness and taken steps to correct it.
 
 
+
 **5. Why do you want to leave (or have left) your current job?**
+
 
 What They Want to Know: The interviewer wants to know why you want to work for their company. When asked about why you are moving on from your current position, stick with the facts, be direct and focus your answer on the future, especially if your departure wasn't under the best circumstances. 
 
