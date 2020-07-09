@@ -31,7 +31,7 @@ I’m going to present a bunch of lessons I learned as bullet points in no parti
 
 📚 Stick with it. 
 
-When I was looking for a job out of school I gave up after one or two weeks of studying. I reasoned that I simply was not cut out to learn the stuff. There was minimal progress from when I first started for weeks, so what was the point of wasting any more time? This time around, I figured I didn’t have a choice. Eventually, things started falling into place. It’s a lot of work, but the willingness to learn is what separates successful candidates from the rest.
+It take times. I didn't land the first job I applied for or the second. However you have to continuely try and try again. Eventually, things started falling into place. It’s a lot of work, but the willingness to learn is what separates successful candidates from the rest.
 
 🤓 Practice is almost everything. 
 
