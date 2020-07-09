@@ -50,6 +50,7 @@ Be honest and don't turn on your previous employer
 <br>
 
 **6. What are your salary expectations?**
+
 What They Want to Know: The hiring manager wants to know what you expect to earn. It seems like a simple question, but your answer can knock you out of competition for the job if you overprice yourself. If you underprice yourself, you may get shortchanged with a lower offer. 
 
 Know your worth dont under/ over estimate your value
@@ -63,6 +64,7 @@ What They Want to Know: This question gives you an opportunity to show the inter
 <br>
 
 **8. How do you handle stress and pressure?**
+
 What They Want to Know: What do you do when things don’t go smoothly at work? How do you deal with difficult situations? The employer wants to know how you handle workplace stress.
 
 Avoid claiming that you never, or rarely, experience stress. Rather, formulate your answer in a way that acknowledges workplace stress and explains how you’ve overcome it, or even used it to your advantage.
@@ -70,6 +72,7 @@ Avoid claiming that you never, or rarely, experience stress. Rather, formulate y
 <br>
 
 **9. Describe a difficult work situation or project and how you overcame it.**
+
 What They Want to Know: The interviewer wants to know how you respond when faced with a difficult decision. As with the question about stress, be prepared to share an example of what you did in a tough situation. It’s important to share details to make the story believable and engaging. 
 
 <br>
