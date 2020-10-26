@@ -1,3 +1,5 @@
+## Typical Questions 
+
 * Give an example of a goal you reached and tell me how you achieved it.
 
 * Give an example of a goal you didn't meet and how you handled it.
