@@ -55,5 +55,5 @@ Information must be in chronological order, with the most recent at the top
 
 NB: Provide recommendations for improvement
 
-
+<img src="img/Thrive - Career Services Bootcamp - CV Train.jpg" />
 
