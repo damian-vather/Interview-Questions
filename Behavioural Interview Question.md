@@ -21,3 +21,6 @@
 * How did you handle meeting a tight deadline?
 
 * What do you do when your schedule is interrupted? Give an example of how you handle it
+
+
+
